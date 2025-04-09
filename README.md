@@ -43,7 +43,7 @@ The system stores user data and quiz data in JSON files, ensuring ease of data m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ahmad-shakib11/quiz-system-project.git
+   git clone https://github.com/EmtuPaul/quiz-system-project.git
    cd quiz-system-project
 
 2. Open the project in IntelliJ IDEA (or your preferred Java IDE).
