@@ -1,0 +1,250 @@
+[
+  {
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing",
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the main purpose of regression testing?",
+    "option 1": "To verify new functionality",
+    "option 2": "To ensure fixes don't break existing functionality",
+    "option 3": "To test performance",
+    "option 4": "To validate requirements",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing level is primarily performed by developers?",
+    "option 1": "System testing",
+    "option 2": "Integration testing",
+    "option 3": "Acceptance testing",
+    "option 4": "Unit testing",
+    "answerkey": 4
+  },
+  {
+    "question": "What is beta testing?",
+    "option 1": "Testing by potential customers at their sites",
+    "option 2": "Testing by test team before release",
+    "option 3": "Testing by developers",
+    "option 4": "Testing for performance issues",
+    "answerkey": 1
+  },
+  {
+    "question": "Which is NOT a functional testing technique?",
+    "option 1": "Boundary value analysis",
+    "option 2": "Equivalence partitioning",
+    "option 3": "Decision table testing",
+    "option 4": "Load testing",
+    "answerkey": 4
+  },
+  {
+    "question": "What is the purpose of test cases?",
+    "option 1": "To find defects",
+    "option 2": "To verify requirements",
+    "option 3": "Both a and b",
+    "option 4": "Neither a nor b",
+    "answerkey": 3
+  },
+  {
+    "question": "Which metric is used to measure test coverage?",
+    "option 1": "Number of test cases executed",
+    "option 2": "Number of defects found",
+    "option 3": "Percentage of code exercised by tests",
+    "option 4": "Time taken to execute tests",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the main goal of acceptance testing?",
+    "option 1": "To verify technical implementation",
+    "option 2": "To validate business requirements",
+    "option 3": "To test individual components",
+    "option 4": "To check integration between modules",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing is performed first?",
+    "option 1": "System testing",
+    "option 2": "Integration testing",
+    "option 3": "Unit testing",
+    "option 4": "Acceptance testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is a test harness?",
+    "option 1": "A set of test data",
+    "option 2": "",
+    "option 3": "",
+    "option 4": "A framework for executing automated tests",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is NOT a characteristic of good test cases?",
+    "option 1": "Traceable to requirements",
+    "option 2": "Complex and detailed",
+    "option 3": "Repeatable",
+    "option 4": "Independent of each other",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the purpose of a test plan?",
+    "option 1": "To document test cases",
+    "option 2": "To guide the testing process",
+    "option 3": "To track defects",
+    "option 4": "To document requirements",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing is concerned with testing the whole system?",
+    "option 1": "Unit testing",
+    "option 2": "Integration testing",
+    "option 3": "System testing",
+    "option 4": "All of the above",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the main purpose of static testing?",
+    "option 1": "To find defects without executing code",
+    "option 2": "To test performance",
+    "option 3": "To validate requirements",
+    "option 4": "To test user interface",
+    "answerkey": 1
+  },
+  {
+    "question": "Which is NOT a type of system testing?",
+    "option 1": "Functional testing",
+    "option 2": "Performance testing",
+    "option 3": "Unit testing",
+    "option 4": "Security testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the main difference between verification and validation?",
+    "option 1": "Verification checks the product, validation checks the process",
+    "option 2": "Verification checks the process, validation checks the product",
+    "option 3": "They are the same",
+    "option 4": "Verification is done by developers, validation by testers",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing technique is used for testing business logic?",
+    "option 1": "Boundary value analysis",
+    "option 2": "Decision table testing",
+    "option 3": "Equivalence partitioning",
+    "option 4": "All of the above",
+    "answerkey": 4
+  },
+  {
+    "question": "What is the purpose of smoke testing?",
+    "option 1": "To verify critical functionality",
+    "option 2": "To test performance",
+    "option 3": "To find all defects",
+    "option 4": "To validate requirements",
+    "answerkey": 1
+  },
+  {
+    "question": "Which is NOT a test design technique?",
+    "option 1": "Error guessing",
+    "option 2": "Equivalence partitioning",
+    "option 3": "Boundary value analysis",
+    "option 4": "Debugging",
+    "answerkey": 4
+  },
+  {
+    "question": "What is the main purpose of exploratory testing?",
+    "option 1": "To execute predefined test cases",
+    "option 2": "To learn the system while testing it",
+    "option 3": "To test performance",
+    "option 4": "To validate requirements",
+    "answerkey": 2
+  },
+  {
+    "question": "Which testing is performed after code changes?",
+    "option 1": "Regression testing",
+    "option 2": "Integration testing",
+    "option 3": "System testing",
+    "option 4": "Acceptance testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the main goal of performance testing?",
+    "option 1": "To find functional defects",
+    "option 2": "To verify system behavior under load",
+    "option 3": "To validate requirements",
+    "option 4": "To test individual components",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is NOT a test level?",
+    "option 1": "Unit testing",
+    "option 2": "Integration testing",
+    "option 3": "System testing",
+    "option 4": "Blackbox testing",
+    "answerkey": 4
+  },
+  {
+    "question": "In Agile methodology, what is the primary purpose of a 'Definition of Done'?",
+    "option 1": "To list all features to be developed",
+    "option 2": "To define the criteria for when a user story is complete",
+    "option 3": "To document test cases",
+    "option 4": "To track sprint velocity",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of these is NOT a common security testing technique?",
+    "option 1": "Penetration testing",
+    "option 2": "SQL injection testing",
+    "option 3": "Boundary value analysis",
+    "option 4": "Cross-site scripting (XSS) testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is the main advantage of test automation over manual testing?",
+    "option 1": "Better at finding new defects",
+    "option 2": "More cost-effective for one-time execution",
+    "option 3": "Faster execution of repetitive tests",
+    "option 4": "Doesn't require maintenance",
+    "answerkey": 3
+  },
+  {
+    "question": "According to ISTQB, what is the main purpose of exit criteria?",
+    "option 1": "To define when to stop testing",
+    "option 2": "To document test environment setup",
+    "option 3": "To list all test cases",
+    "option 4": "To track defects",
+    "answerkey": 1
+  },
+  {
+    "question": "Which performance testing type evaluates system behavior under increasing load",
+    "option 1": "Stress testing",
+    "option 2": "Soak testing",
+    "option 3": "Spike testing",
+    "option 4": "Load testing",
+    "answerkey": 4
+  },
+  {
+    "question": "What is the primary focus of API testing?",
+    "option 1": "User interface validation",
+    "option 2": "Business logic and data responses",
+    "option 3": "Visual design elements",
+    "option 4": "Color scheme consistency",
+    "answerkey": 2
+  },
+  {
+    "question": "What is SQA?",
+    "option 1": "Software Quality Analyst",
+    "option 2": "Software Quality Assurance",
+    "option 3": "Software Quick Access",
+    "option 4": "Secure Quality Assurance",
+    "answerkey": 2
+  }
+]
