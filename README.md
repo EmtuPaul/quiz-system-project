@@ -58,11 +58,5 @@ The system stores user data and quiz data in JSON files, ensuring ease of data m
 
 2. **Student Login**: Students can log in with their credentials, take quizzes, and check results after completion.
 
-### Admin Interface Demo
-You can view the recorded video of the admin interface demo by clicking the link below:
-[Admin Interface Demo](https://drive.google.com/file/d/1PtHFyB69j_07AUcuOkQCD5HSiMgMc61F/view?usp=sharing)
 
-### Student Interface Demo
-You can view the recorded video of the student interface demo by clicking the link below:
-[Student Interface Demo](https://drive.google.com/file/d/1gsmmo-LRtYJArlKyusyaook17vX2GW5s/view?usp=sharing)
 
